@@ -1,0 +1,6 @@
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary\bin\Debug\StatisticaLibrary.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary\bin\Debug\StatisticaLibrary.pdb
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary\obj\Debug\StatisticaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary\obj\Debug\StatisticaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary\obj\Debug\StatisticaLibrary.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary\obj\Debug\StatisticaLibrary.pdb

@@ -1,0 +1,15 @@
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\StatisticaLibrary.Test.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\StatisticaLibrary.Test.pdb
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\StatisticaLibrary.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\StatisticaLibrary.pdb
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\obj\Debug\StatisticaLibrary.Test.csprojResolveAssemblyReference.cache
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\obj\Debug\StatisticaLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\obj\Debug\StatisticaLibrary.Test.dll
+C:\Users\daniele\source\repos\Pettinari_Finale\StatisticaLibrary.Test\obj\Debug\StatisticaLibrary.Test.pdb
